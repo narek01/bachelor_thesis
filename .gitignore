@@ -1,2 +1,4 @@
 afterwork/
 .service_account.json
+**/.ipynb_checkpoints/
+__pycache__
